@@ -9,7 +9,7 @@ function logincard(props){
             <div class="card-body">
                 <h3 class="card-title">{props.role}</h3>
                 <p class="card-text">{props.description}</p>
-                <a href="#" class="btn btn-success">Login</a>
+                <a href="/login" class="btn btn-success">Login</a>
             </div>
             </div>
         </div>

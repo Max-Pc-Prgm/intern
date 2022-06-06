@@ -1,11 +1,9 @@
 import './App.css';
 import Header from './components/header';
 import LoginCard from './components/logincard';
-import Test from './test';
-import {Route} from "react-router-dom";
 function App() {
   return (
-    <div className="App diag">
+    <div className="App">
       <Header />
       <div className='grid-container login-card'>
         <div className="grid-item grid-item-1"><LoginCard role="Store Manager" description="Manages the staff do not relate with customer , Head for staff operations"/></div>

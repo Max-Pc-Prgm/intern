@@ -1,0 +1,33 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600);
+
+
+
+.for-padd{
+padding-top: 70px;
+width:1200px;
+padding-left: 300px;
+
+}
+
+.login-form
+{
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.login-form .row
+{
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.login-wt{
+    font-size: 25px;
+    
+    font-weight: 900;
+    align-content: center;
+}
+.btn-padding{
+    padding-left: 100px;
+    padding-right: 90px;
+}
